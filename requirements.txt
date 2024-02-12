@@ -1,0 +1,7 @@
+openai
+langchain 
+unstructured 
+tiktoken
+pinecone-client 
+pypdf
+sentence-transformers
